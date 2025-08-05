@@ -426,12 +426,6 @@ Infrastructure: AWS Cloud
 - **Caching Strategy**: Intelligent caching of medical concepts and user patterns
 - **Backup Systems**: Redundant processing pipelines for high availability
 
-### Total 6-Month Investment
-- **Team Costs**: $180K (6 developers + specialists for 6 months)
-- **Infrastructure**: $120K (cloud services, AI processing, databases)
-- **External Costs**: $30K (medical advisors, user testing, partnerships)
-- **Total MVP Budget**: $330K
-
 ### Post-MVP Success Indicators
 - **Product-Market Fit**: 40% monthly user retention, 4.5+ note quality rating
 - **Revenue Validation**: 30% conversion rate from free to paid users
